@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+.counter {
+  font-size: 5rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.control {
+  margin: 0 2rem;
+}
+
+.minus,
+.plus {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+}
